@@ -3,3 +3,6 @@
 • Developed a stock price prediction model using machine learning techniques to forecast future stock prices. <br>
 • Linear Regression and LSTM algorithms, along with libraries like Scikit-learn, TensorFlow and Keras, are employed to train models on historical data. <br>
 • Provided insights on ML Model effectiveness, achieving over 15% accuracy improvement in stock price prediction.<br>
+
+
+Get the DATA from here : https://finance.yahoo.com/
